@@ -15,7 +15,7 @@ const Products = () => {
                 </div>
 
                 <div className="order-1 lg:order-2 lg:w-1/2">
-                    <img className="rounded-xl  md:h-[400px] md:w-[1600px] lg:w-[1000px] " src="src/assets/product-1.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] md:w-[1600px] lg:w-[1000px] " src="assets/product-1.avif" alt="" />
                 </div>
             </div>
 
