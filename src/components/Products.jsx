@@ -24,7 +24,7 @@ const Products = () => {
             <div className="flex flex-col lg:flex-row gap-10 xl:gap-32  lg:items-center mt-20">
 
                 <div className="lg:w-1/2">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-2.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-2.avif" alt="" />
                 </div>
 
                 <div className=" lg:w-1/2 ">
@@ -46,7 +46,7 @@ const Products = () => {
                 </div>
 
                 <div className="order-1 lg:order-2 lg:w-1/2">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-3.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-3.avif" alt="" />
                 </div>
             </div>
 
@@ -55,7 +55,7 @@ const Products = () => {
             <div className="flex flex-col lg:flex-row gap-10 xl:gap-32  lg:items-center mt-20">
 
                 <div className=" lg:w-1/2">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-4.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-4.avif" alt="" />
                 </div>
 
                 <div className="lg:w-1/2">
@@ -77,7 +77,7 @@ const Products = () => {
                 </div>
 
                 <div className="order-1 lg:order-2 lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-5.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-5.avif" alt="" />
                 </div>
             </div>
 
@@ -86,7 +86,7 @@ const Products = () => {
             <div className="flex flex-col lg:flex-row gap-10 xl:gap-32  lg:items-center mt-20">
 
                 <div className=" lg:w-1/2">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-6.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-6.avif" alt="" />
                 </div>
 
                 <div className="lg:w-1/2">
@@ -109,14 +109,14 @@ const Products = () => {
                 </div>
 
                 <div className="order-1 lg:order-2 lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-7.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-7.avif" alt="" />
                 </div>
             </div>
             {/* product 8 */}
             <div className="flex flex-col lg:flex-row gap-10 xl:gap-32  lg:items-center mt-20">
 
                 <div className="lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-8.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-8.avif" alt="" />
                 </div>
 
                 <div className="lg:w-1/2">
@@ -138,7 +138,7 @@ const Products = () => {
                 </div>
 
                 <div className="order-1 lg:order-2 lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-9.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-9.avif" alt="" />
                 </div>
             </div>
 
@@ -147,7 +147,7 @@ const Products = () => {
             <div className="flex flex-col lg:flex-row gap-10 xl:gap-32  lg:items-center mt-20">
 
                 <div className="lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-10.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-10.avif" alt="" />
                 </div>
 
                 <div className="lg:w-1/2">
@@ -169,7 +169,7 @@ const Products = () => {
                 </div>
 
                 <div className="order-1 lg:order-2 lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-11.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-11.avif" alt="" />
                 </div>
             </div>
 
@@ -178,7 +178,7 @@ const Products = () => {
             <div className="flex flex-col lg:flex-row gap-10 xl:gap-32  lg:items-center mt-20">
 
                 <div className="lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-12.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-12.avif" alt="" />
                 </div>
 
                 <div className="lg:w-1/2">
@@ -199,7 +199,7 @@ const Products = () => {
                 </div>
 
                 <div className="order-1 lg:order-2 lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-13.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-13.avif" alt="" />
                 </div>
             </div>
 
@@ -208,7 +208,7 @@ const Products = () => {
             <div className="flex flex-col lg:flex-row gap-10 xl:gap-32  lg:items-center mt-20">
 
                 <div className="lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-14.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-14.avif" alt="" />
                 </div>
 
                 <div className="lg:w-1/2">
@@ -229,7 +229,7 @@ const Products = () => {
                 </div>
 
                 <div className="order-1 lg:order-2 lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-15.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-15.avif" alt="" />
                 </div>
             </div>
 
@@ -238,7 +238,7 @@ const Products = () => {
             <div className="flex flex-col lg:flex-row gap-10 xl:gap-32  lg:items-center mt-20">
 
                 <div className="lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-16.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-16.avif" alt="" />
                 </div>
 
                 <div className="lg:w-1/2">
@@ -259,7 +259,7 @@ const Products = () => {
                 </div>
 
                 <div className="order-1 lg:order-2 lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-17.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-17.avif" alt="" />
                 </div>
             </div>
 
@@ -267,7 +267,7 @@ const Products = () => {
             <div className="flex flex-col lg:flex-row gap-10 xl:gap-32  lg:items-center mt-20">
 
                 <div className="lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-18.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-18.avif" alt="" />
                 </div>
 
                 <div className="lg:w-1/2">
@@ -289,7 +289,7 @@ const Products = () => {
                 </div>
 
                 <div className="order-1 lg:order-2 lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-19.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-19.avif" alt="" />
                 </div>
             </div>
 
@@ -298,7 +298,7 @@ const Products = () => {
             <div className="flex flex-col lg:flex-row gap-10 xl:gap-32  lg:items-center mt-20">
 
                 <div className="lg:w-1/2 ">
-                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="src/assets/product-20.avif" alt="" />
+                    <img className="rounded-xl  md:h-[400px] w-[1600px] lg:w-[1000px] " src="assets/product-20.avif" alt="" />
                 </div>
 
                 <div className="lg:w-1/2">
