@@ -32,7 +32,7 @@ const Navbar = () => {
                         
                     </div>
 
-                    <div className={!nav?'fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-orange-500 ease-in-out duration-500':'fixed left-[-100%]'}>
+                    <div className={!nav?'fixed lg:hidden left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-orange-500 ease-in-out duration-500':'fixed left-[-100%]'}>
                     <ul className="pt-4 uppercase">
                         <li className="p-4 border-b border-gray-600"><Link className="hover:border-b-2 border-blue-600 font-semibold " to="/">Home</Link></li>
                         <li className="p-4 border-b border-gray-600"><Link className="hover:border-b-2 border-blue-600 font-semibold " to="/about">About</Link></li>
