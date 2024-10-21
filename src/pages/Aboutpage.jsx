@@ -1,6 +1,9 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Contact2 from '../components/Contact2'
+import Contact3 from '../components/Contact3'
+import Address2 from '../components/Address2'
+import Footer2 from '../components/Footer2'
 
 const Aboutpage = () => {
   return (
@@ -16,7 +19,7 @@ const Aboutpage = () => {
         {/* our page */}
         <div className="flex flex-col lg:flex-row">
           <div className="xl:w-[80%] w-full order-2  lg:order-1">
-            <div className=" flex items-center gap-4 lg:mt-96">
+            <div className=" flex items-center gap-4  lg:mt-96">
               <h1 className=" text-[100px] md:text-[170px] xl:text-[230px] font-bold text-pink-600">O</h1>
               <p className="text-sm md:text-base lg:text-sm xl:text-base 2xl:text-xl font-semibold">" <span className="text-orange-600"> Vision:</span> We aspire to be a global leader in technology innovation, setting new benchmarks for excellence. Our goal is to create a future where technology elevates the quality of life, fosters sustainability, and drives growth and collaboration on a global scale, shaping a smarter, more connected world.</p>
             </div>
@@ -34,7 +37,7 @@ const Aboutpage = () => {
 
           </div>
 
-          <div className="mt-96 order-1 lg:order-2">
+          <div className="mt-64 xl:mt-96 order-1 lg:order-2">
             <img className="w-[100%] h-[100%]" src="assets/our-image.png" alt="" />
           </div>
 
@@ -50,8 +53,18 @@ const Aboutpage = () => {
            </div>
          
          {/* contact page */}
+        <div>
+         <Contact3/>
+         </div>
 
-         <Contact2/>
+         {/* address page */}
+          <div>
+            <Address2/>
+          </div>
+
+          <div>
+            <Footer2/>
+          </div>
       </div>
 
     </div>
